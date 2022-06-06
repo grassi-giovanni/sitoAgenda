@@ -71,10 +71,10 @@ body{background-color: rgb(255, 219, 102); }
     background-color: rgba(255, 196, 0, 0.811);
     margin-top: 10px;
     position: fixed;
-    top: 0;
+    bottom: 0;
     text-align: center;
 }
-a{
+a{.
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 10px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -105,16 +105,15 @@ a:active{
     border: 5px solid rgb(255, 145, 0);
     margin-top: 10px;
 }
+.div3 {
+    border: 5px solid rgb(255, 145, 0);
+    margin-top: 10px;
+    margin-bottom: 210px;
+}
 .imgC{
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-.mio{
-    text-align: center;
-    color: red;
-    border: 2px dashed red;
-    padding: 15px 25px;
 }
 
 .floatS{
@@ -130,8 +129,4 @@ a:active{
     margin-top: 15px;
     min-width: 40px;
     width: 4%;
-}
-
-.spazio{
-    margin-top: 90px;
 }
